@@ -90,6 +90,8 @@ Fast Campus Data Science School 17th <EDA project>
       (3) 편의점: 한림읍 > 애월읍 > 이도2동
       (4) 정장: 이도2동 > 연동 > 한림읍
          ※ 제주도 웨딩 촬영용 맞춤 정장 및 대여 서비스 활성화
+![foliums](https://user-images.githubusercontent.com/39934875/115896540-7f234680-a496-11eb-8d14-714ef6358cc4.jpg)
+
 
 #### 결론 : 제주도 사업 인기 업종과 특화 지역
     - 매출액이 높은 업종(일반한식, 서양음식, 편의점, 정장)의 분포 상위 지역은 대체로 제주시에 위치
