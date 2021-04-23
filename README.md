@@ -1,14 +1,14 @@
 Fast Campus Data Science School 17th <EDA project>
-## ✨The Analysis of Consumption & Commercial District in Jeju✨
+## The Analysis of Consumption & Commercial District in Jeju 🌴🍊
 
 ![ppt](https://user-images.githubusercontent.com/71582831/115168106-cc00c900-a0f4-11eb-99c3-aa27a80c96b7.jpg)
 
-## :pencil:개요
-### 1️⃣ 주제 선정 목적
+## :pencil: 개요
+### 1️⃣  주제 선정 목적
 - 제주도 소비/결제 데이터 및 지역별 업종 분석
 - EDA를 통한 요소별 상관관계 분석 및 인사이트 도출
   
-### 2️⃣ Reference
+### 2️⃣  Reference
 ① 제주도 업종별 매출 데이터
   - 출처: [Dacon "공간정보 탐색적 데이터 분석 경진대회"](https://dacon.io/competitions/official/235682/data/)
   - 목적: 지역별/시간대별 상세 업종 결제액 분석
