@@ -55,6 +55,8 @@ Fast Campus Data Science School 17th <EDA project>
          vehicle_own_rat(0.4) 과 양의 상관관계
      - H2 결론: 직업과 소득/소비는 상당한 상관관계가 있다.
      - H3-1 결론: 고소득/고소비 제주도민의 거주지는 밀집되어 있는 경향이 있다.
+![스크린샷 2021-04-23 오후 7 23 23](https://user-images.githubusercontent.com/39934875/115857754-0d80d380-a469-11eb-8d96-244218da2cf4.png)
+
   
     2. 관광객
      - 고소비층이 묵는 고급 호텔의 밀집지역 탐색
@@ -76,6 +78,8 @@ Fast Campus Data Science School 17th <EDA project>
       : 성산읍, 남원읍, 애월읍, 연동, 한림읍, 안덕면, 이도이동, 조천읍
 
 #### 본론 : WHAT 어떤 업종을?
+![g_type10](https://user-images.githubusercontent.com/39934875/115857492-bbd84900-a468-11eb-81a8-3744c413ebc8.png)
+
     1. 8개 지역 매출 TOP 10 업종
      - 소비횟수 기준, 일반한식(50%), 서양음식(20%), 스넥(6%), 편의점, 농축수산품, 슈퍼마켓, 중국음식, 정장, 기타음료식품, 주점 순
     2. 8개 지역별 TOP 10 업종 분포 비교
