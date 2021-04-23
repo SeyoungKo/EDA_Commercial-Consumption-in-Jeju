@@ -1,14 +1,14 @@
 Fast Campus Data Science School 17th <EDA project>
-## ✨The Analysis of Consumption & Commercial District in Jeju✨
+## The Analysis of Consumption & Commercial District in Jeju 🌴🍊
 
 ![ppt](https://user-images.githubusercontent.com/71582831/115168106-cc00c900-a0f4-11eb-99c3-aa27a80c96b7.jpg)
 
-## :pencil:개요
-### 1️⃣ 주제 선정 목적
+## :pencil: 개요
+### 1️⃣  주제 선정 목적
 - 제주도 소비/결제 데이터 및 지역별 업종 분석
 - EDA를 통한 요소별 상관관계 분석 및 인사이트 도출
   
-### 2️⃣ Reference
+### 2️⃣  Reference
 ① 제주도 업종별 매출 데이터
   - 출처: [Dacon "공간정보 탐색적 데이터 분석 경진대회"](https://dacon.io/competitions/official/235682/data/)
   - 목적: 지역별/시간대별 상세 업종 결제액 분석
@@ -55,6 +55,8 @@ Fast Campus Data Science School 17th <EDA project>
          vehicle_own_rat(0.4) 과 양의 상관관계
      - H2 결론: 직업과 소득/소비는 상당한 상관관계가 있다.
      - H3-1 결론: 고소득/고소비 제주도민의 거주지는 밀집되어 있는 경향이 있다.
+![스크린샷 2021-04-23 오후 7 23 23](https://user-images.githubusercontent.com/39934875/115857754-0d80d380-a469-11eb-8d96-244218da2cf4.png)
+
   
     2. 관광객
      - 고소비층이 묵는 고급 호텔의 밀집지역 탐색
@@ -76,6 +78,8 @@ Fast Campus Data Science School 17th <EDA project>
       : 성산읍, 남원읍, 애월읍, 연동, 한림읍, 안덕면, 이도이동, 조천읍
 
 #### 본론 : WHAT 어떤 업종을?
+![g_type10](https://user-images.githubusercontent.com/39934875/115857492-bbd84900-a468-11eb-81a8-3744c413ebc8.png)
+
     1. 8개 지역 매출 TOP 10 업종
      - 소비횟수 기준, 일반한식(50%), 서양음식(20%), 스넥(6%), 편의점, 농축수산품, 슈퍼마켓, 중국음식, 정장, 기타음료식품, 주점 순
     2. 8개 지역별 TOP 10 업종 분포 비교
@@ -90,16 +94,3 @@ Fast Campus Data Science School 17th <EDA project>
 #### 결론 : 제주도 사업 인기 업종과 특화 지역
     - 매출액이 높은 업종(일반한식, 서양음식, 편의점, 정장)의 분포 상위 지역은 대체로 제주시에 위치
     - 매출액이 높은 8개 지역 중에서도 고소득/고소비 거주민 밀집도가 높은 지역 (연동, 이도2동)이 상위권을 차지
-                
-
-### EDA 프로젝트를 마치며...
-     1. 한계점 및 아쉬운 점
-       - 특정 업종/지역에 매출이 높다는 건 수요와 공급이 모두 많다는 뜻이고 이미 레드 오션일 수도 있으나,
-         매출액이 높다는 것이 곧 인기가 많고 기회가 있는 것으로 가정
-       - 제주도 업체 및 매출 데이터 수급이 어려워, 고객 결제 데이터로 갈음
-       - 데이터 양이 많아 위도/경도/동 이름 변환 소요 시간이 길어 데이터의 일부만 샘플링하여 진행
-     2. 의의 및 느낀 점
-       - Pandas DataFrame과 각종 시각화 툴(Matplotlib, Seaborn, Plotly, folium 등) 사용하여 데이터에 맞는 다양한 시각화 시도
-       - 여러 개의 데이터 셋을 유기적으로 연계하여 분석 및 인사이트 도출
-       - 크롤링 및 API 사용을 통해 필요한 데이터 수급 및 전처리 수행
-       - 신혼여행 및 사진 촬영등으로 유명한 제주도의 특성에 따른 특이한 업종(ex 정장)을 발견
